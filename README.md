@@ -1,24 +1,25 @@
-# arquivo-cnab240
+# Criador de arquivos CNAB 240
+## Padrão FEBRABAN
 
-## Project setup
+### Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar e ter hot-reload durante o desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para compilar e minificar para produção
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Para rodar os testes unitários
 ```
 npm run test:unit
 ```
 
-### Customize configuration
+### Para customizar as configurações
 See [Configuration Reference](https://cli.vuejs.org/config/).
